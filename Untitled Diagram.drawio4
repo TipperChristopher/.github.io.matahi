@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T11:28:47.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="zJt3I4pNFE2hM43PQn-8" version="18.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-17T11:30:14.384Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="1YcGC6c0a4215mfUE7Sf" version="18.0.6" type="github">
   <diagram name="Page-1" id="f1b7ffb7-ca1e-a977-7cf5-a751b3c06c05">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="Blog Name" style="text;spacingTop=-5;fontSize=18;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="70" y="30" width="230" height="20" as="geometry" />
+        <mxCell id="2" value="Online Customer Ordering Portal for V&amp;V" style="text;spacingTop=-5;fontSize=18;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="10" y="20" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3" value="" style="line;strokeWidth=1" parent="1" vertex="1">
           <mxGeometry x="20" y="60" width="780" height="10" as="geometry" />
@@ -22,17 +22,8 @@
         <mxCell id="7" value="Associated blogs" style="text;spacingTop=-5;" parent="1" vertex="1">
           <mxGeometry x="459.9999999999999" y="70" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="Article 1" style="text;spacingTop=-5;" parent="1" vertex="1">
-          <mxGeometry x="20" y="120" width="30" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="11" value="RSS" style="text;spacingTop=-5;" parent="1" vertex="1">
           <mxGeometry x="740" y="70.00000000000013" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="20" value="" style="verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.iconGrid;strokeColor=#CCCCCC;gridSize=1,1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="15" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="21" value="Blog &#xa;Logo" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
-          <mxGeometry x="20" y="20" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="22" value="Blog&#39;s Main Topic 1" style="text;spacingTop=-5;" parent="1" vertex="1">
           <mxGeometry x="99.99999999999997" y="70.00000000000026" width="30" height="20" as="geometry" />
