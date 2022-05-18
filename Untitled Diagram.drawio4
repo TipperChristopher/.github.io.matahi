@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-18T13:59:59.937Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="FtrH1HqlhSZAiaWr-1j5" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-18T14:03:11.123Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="htoMFEOXX3JC3tU9fajA" version="18.0.7" type="github">
   <diagram name="Page-1" id="f1b7ffb7-ca1e-a977-7cf5-a751b3c06c05">
     <mxGraphModel dx="2062" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -66,6 +66,15 @@
             <mxPoint x="400" y="660" as="sourcePoint" />
             <mxPoint x="400" y="300" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9x4hdUzOTOd0-5qb-pme-57" value="Product(s) name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="310" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9x4hdUzOTOd0-5qb-pme-58" value="Department&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9x4hdUzOTOd0-5qb-pme-59" value="Quantity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="310" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
