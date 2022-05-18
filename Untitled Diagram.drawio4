@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-18T12:21:29.582Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="PAIuB5t_z5ZUleosj5gS" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-18T13:39:48.301Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="jPU16p62YOEkEjw-3Zca" version="18.0.7" type="github">
   <diagram name="Page-1" id="f1b7ffb7-ca1e-a977-7cf5-a751b3c06c05">
-    <mxGraphModel dx="2062" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,6 +30,21 @@
         </mxCell>
         <mxCell id="IZ89vggJVLndTv5ReUGy-64" value="&lt;h1&gt;&lt;span style=&quot;line-height: 120%; font-family: Calibri, sans-serif;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Product Selections&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;span&gt;&lt;br&gt;&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="15" y="100" width="790" height="980" as="geometry" />
+        </mxCell>
+        <mxCell id="9x4hdUzOTOd0-5qb-pme-30" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="180" width="360" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="9x4hdUzOTOd0-5qb-pme-31" value="Customers Orders" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="175" y="180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9x4hdUzOTOd0-5qb-pme-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="520" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9x4hdUzOTOd0-5qb-pme-35" value="Apply Discounts" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="333" y="525" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9x4hdUzOTOd0-5qb-pme-37" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="520" width="270" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
