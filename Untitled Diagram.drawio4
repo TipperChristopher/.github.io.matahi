@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-18T10:06:24.198Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="XcMAEl7uxAgqEZUwpiT4" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-18T12:12:55.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="I30vm-qtwoquH7nWyedV" version="18.0.7" type="github">
   <diagram name="Page-1" id="f1b7ffb7-ca1e-a977-7cf5-a751b3c06c05">
     <mxGraphModel dx="2062" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -43,17 +43,17 @@
         <mxCell id="WGYAJ7Y7yC_IG4Tirigq-28" value="Catalogues avaiable:&lt;br&gt;&lt;br&gt;* Vegan Food&lt;br&gt;* Animal-Free products&lt;br&gt;* Cruelty-free products&lt;br&gt;* Beauty products&lt;br&gt;*&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="160" width="200" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="WGYAJ7Y7yC_IG4Tirigq-30" value="&lt;h1&gt;Vegan Food&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="50" y="340" width="190" height="120" as="geometry" />
+        <mxCell id="WGYAJ7Y7yC_IG4Tirigq-30" value="&lt;h1&gt;Vegan Food&lt;/h1&gt;&lt;p&gt;*List of the food products&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="390" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WGYAJ7Y7yC_IG4Tirigq-31" value="&lt;h1&gt;Animal-Free products&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="50" y="465" width="270" height="120" as="geometry" />
+        <mxCell id="WGYAJ7Y7yC_IG4Tirigq-31" value="&lt;h1&gt;Animal-Free products&lt;/h1&gt;&lt;p&gt;* The animal free products listed.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="465" width="270" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WGYAJ7Y7yC_IG4Tirigq-32" value="&lt;h1&gt;Cruelty-Free Products&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="45" y="590" width="275" height="120" as="geometry" />
+        <mxCell id="WGYAJ7Y7yC_IG4Tirigq-32" value="&lt;h1&gt;Cruelty-Free Products&lt;/h1&gt;&lt;p&gt;* The products of cruelty-free&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="540" width="275" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WGYAJ7Y7yC_IG4Tirigq-33" value="&lt;h1&gt;Beauty Products&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="720" width="220" height="120" as="geometry" />
+        <mxCell id="WGYAJ7Y7yC_IG4Tirigq-33" value="&lt;h1&gt;Beauty Products&lt;/h1&gt;&lt;p&gt;* Beauty products&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="620" width="220" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
