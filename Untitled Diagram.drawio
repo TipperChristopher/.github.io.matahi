@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T08:11:32.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="jM_m4H8BZwr9nFtS0Gvd" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-19T08:13:08.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="yUbf65fNnExv_jiDYsAg" version="18.0.7" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="2062" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="BdIwxWL2ztRp1uxpC_Id-13" value="Products" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="200" y="120" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BdIwxWL2ztRp1uxpC_Id-15" value="Tab 2" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#ffffff;align=left;spacingLeft=5;strokeColor=#008cff;fillColor=#008cff;" vertex="1" parent="1">
+        <mxCell id="BdIwxWL2ztRp1uxpC_Id-15" value="Search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#ffffff;align=left;spacingLeft=5;strokeColor=#008cff;fillColor=#008cff;" vertex="1" parent="1">
           <mxGeometry x="380" y="120" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BdIwxWL2ztRp1uxpC_Id-16" value="Log-in" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;strokeColor=#666666;" vertex="1" parent="1">
@@ -78,6 +78,9 @@
         </mxCell>
         <mxCell id="BdIwxWL2ztRp1uxpC_Id-27" value="Search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="190" y="520" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BdIwxWL2ztRp1uxpC_Id-28" value="Orders" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#ffffff;align=left;spacingLeft=5;strokeColor=#008cff;fillColor=#008cff;" vertex="1" parent="1">
+          <mxGeometry x="590" y="120" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
