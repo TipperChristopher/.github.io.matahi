@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T08:21:45.012Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="IR4dtWJ7kqU_j8B-oiw4" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-19T08:27:32.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="vl9oVQZncbLACQ1VXT4N" version="18.0.7" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
-    <mxGraphModel dx="2062" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="677b7b8949515195-9" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="100" width="1060" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="BdIwxWL2ztRp1uxpC_Id-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Search for the Customer&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="BdIwxWL2ztRp1uxpC_Id-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Search for the Products&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="180" width="770" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BdIwxWL2ztRp1uxpC_Id-7" value="" style="endArrow=none;html=1;rounded=0;fontSize=36;" edge="1" parent="1">
@@ -52,29 +52,8 @@
         <mxCell id="BdIwxWL2ztRp1uxpC_Id-18" value="" style="strokeColor=#999999;verticalLabelPosition=bottom;shadow=0;dashed=0;verticalAlign=top;strokeWidth=2;html=1;shape=mxgraph.mockup.misc.copyrightIcon;fontSize=36;" vertex="1" parent="1">
           <mxGeometry x="40" y="790" width="25" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="BdIwxWL2ztRp1uxpC_Id-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=36;" vertex="1" parent="1">
-          <mxGeometry x="160" y="300" width="270" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="BdIwxWL2ztRp1uxpC_Id-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=36;" vertex="1" parent="1">
-          <mxGeometry x="160" y="370" width="270" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="BdIwxWL2ztRp1uxpC_Id-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=36;" vertex="1" parent="1">
-          <mxGeometry x="160" y="450" width="270" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="BdIwxWL2ztRp1uxpC_Id-22" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;First Name&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" vertex="1" parent="1">
-          <mxGeometry x="40" y="305" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BdIwxWL2ztRp1uxpC_Id-23" value="Surname" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="50" y="380" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BdIwxWL2ztRp1uxpC_Id-24" value="Email Address" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="55" y="455" width="95" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="BdIwxWL2ztRp1uxpC_Id-26" value="Search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;" vertex="1" parent="1">
           <mxGeometry x="920" y="120" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BdIwxWL2ztRp1uxpC_Id-27" value="Search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="190" y="520" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BdIwxWL2ztRp1uxpC_Id-28" value="Orders" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#ffffff;align=left;spacingLeft=5;strokeColor=#008cff;fillColor=#008cff;" vertex="1" parent="1">
           <mxGeometry x="300" y="120" width="70" height="30" as="geometry" />
@@ -85,7 +64,7 @@
         <mxCell id="BdIwxWL2ztRp1uxpC_Id-30" value="Versatile and Vegan " style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="390" y="40" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BdIwxWL2ztRp1uxpC_Id-33" value="Customer details" style="swimlane;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="BdIwxWL2ztRp1uxpC_Id-33" value="Products" style="swimlane;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="480" y="230" width="570" height="405" as="geometry" />
         </mxCell>
       </root>
