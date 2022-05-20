@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-20T01:11:22.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="S2051qalSD8BSADdKbIc" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-20T01:36:38.937Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="EZk3co39-_xQdjOMPs1N" version="18.0.7" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="2062" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -64,8 +64,11 @@
         <mxCell id="BdIwxWL2ztRp1uxpC_Id-30" value="Versatile and Vegan " style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="390" y="40" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6xUWBgbos6RI_MjtZ8wd-1" value="Kia Ora and welcome to the Versatile and Vegan. The webpage has all our&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="55" y="250" width="1005" height="30" as="geometry" />
+        <mxCell id="6xUWBgbos6RI_MjtZ8wd-1" value="Kia Ora and welcome to the Versatile and Vegan. The webpage has all our products and sales, plus discounts for new customers.&amp;nbsp; You can register for the site and choose what type of products you are keen on." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="250" width="705" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6xUWBgbos6RI_MjtZ8wd-3" value="Register" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#ffffff;align=left;spacingLeft=5;strokeColor=#008cff;fillColor=#008cff;" vertex="1" parent="1">
+          <mxGeometry x="65" y="330" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
