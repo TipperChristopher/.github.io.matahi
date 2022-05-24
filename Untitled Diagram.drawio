@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T06:47:06.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="VmdOQcHDUMmcDZg77imr" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T07:04:23.506Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="jAKWz28IX8CHhCyhqmNJ" version="18.1.1" type="github">
   <diagram id="bfzW_d-6oRnT0RZYZXPe" name="Page-1">
     <mxGraphModel dx="2062" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -81,6 +81,9 @@
             <mxPoint x="550" y="700" as="sourcePoint" />
             <mxPoint x="600" y="650" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CTv8oxXGDEYDJd2_GDpg-36" value="Customer Orders" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="685" y="530" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
