@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T10:10:55.843Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="SbJpv5ymIjI0Cm2w9myg" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T13:04:51.430Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="p9R5HoKan_nUcrL8F1AN" version="18.1.1" type="github">
   <diagram id="bfzW_d-6oRnT0RZYZXPe" name="Page-1">
     <mxGraphModel dx="2062" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,9 +19,6 @@
             <mxPoint x="598.5500000000002" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C1VxZ8XKzOwLKLjluhn4-5" value="Future-state ordering process" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="617.5" y="360" width="170" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="CTv8oxXGDEYDJd2_GDpg-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="597.5" y="630" width="210" height="120" as="geometry" />
         </mxCell>
@@ -36,9 +33,6 @@
             <mxPoint x="807.5" y="705" as="sourcePoint" />
             <mxPoint x="598.5500000000002" y="705" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="CTv8oxXGDEYDJd2_GDpg-24" value="Order has been made" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="642.5" y="670" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CTv8oxXGDEYDJd2_GDpg-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="630" width="210" height="120" as="geometry" />
@@ -55,23 +49,14 @@
             <mxPoint x="291.0500000000002" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CTv8oxXGDEYDJd2_GDpg-30" value="Invalid Order" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="335" y="675" width="120" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="CTv8oxXGDEYDJd2_GDpg-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="282.5" y="410" width="210" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CTv8oxXGDEYDJd2_GDpg-33" value="Customer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="357.5" y="425" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CTv8oxXGDEYDJd2_GDpg-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CTv8oxXGDEYDJd2_GDpg-20" target="CTv8oxXGDEYDJd2_GDpg-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="567.5" y="690" as="sourcePoint" />
             <mxPoint x="617.5" y="640" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="CTv8oxXGDEYDJd2_GDpg-36" value="Customer Orders" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="507.5" y="380" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CTv8oxXGDEYDJd2_GDpg-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.01;entryY=0.583;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CTv8oxXGDEYDJd2_GDpg-32" target="C1VxZ8XKzOwLKLjluhn4-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -94,9 +79,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CTv8oxXGDEYDJd2_GDpg-42" value="Orders" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="952.5" y="415" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="CTv8oxXGDEYDJd2_GDpg-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="C1VxZ8XKzOwLKLjluhn4-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="702" y="495" as="sourcePoint" />
@@ -108,9 +90,6 @@
             <mxPoint x="400" y="630" as="sourcePoint" />
             <mxPoint x="450" y="540" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="CTv8oxXGDEYDJd2_GDpg-46" value="Invaild Order" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="407.5" y="550" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CTv8oxXGDEYDJd2_GDpg-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CTv8oxXGDEYDJd2_GDpg-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
