@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-25T08:46:45.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="zs6GuqdPoQvjlxbbItsA" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-25T08:49:38.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="DoymyrOPve-QSx7zvQvL" version="18.1.2" type="github">
   <diagram id="bfzW_d-6oRnT0RZYZXPe" name="Page-1">
     <mxGraphModel dx="2062" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -185,7 +185,7 @@
             <mxPoint x="76.05000000000018" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wWReXJp32-VLOhJJQEyG-38" value="Products Chosen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wWReXJp32-VLOhJJQEyG-38" value="Product Not Available" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="145" y="800" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wWReXJp32-VLOhJJQEyG-39" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -203,7 +203,7 @@
             <mxPoint x="76.05000000000018" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wWReXJp32-VLOhJJQEyG-42" value="Products Chosen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wWReXJp32-VLOhJJQEyG-42" value="Product Available" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="145" y="520" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
