@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-25T02:43:05.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="kKrba6KkSL778ZUQtJPB" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-25T02:46:03.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="-B-E97CiwzsU5IMiJwvX" version="18.1.1" type="github">
   <diagram id="bfzW_d-6oRnT0RZYZXPe" name="Page-1">
     <mxGraphModel dx="2062" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -53,7 +53,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CTv8oxXGDEYDJd2_GDpg-54" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="892.5" y="560" width="185" height="60" as="geometry" />
+          <mxGeometry x="911.25" y="560" width="147.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CTv8oxXGDEYDJd2_GDpg-55" value="Hours" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="955" y="565" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
