@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T03:16:08.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="whbKARH05NBw3vGkG9fJ" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-26T03:17:11.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="qrYgtDnjkvcUoieEjWI4" version="18.1.2" type="github">
   <diagram id="bfzW_d-6oRnT0RZYZXPe" name="Page-1">
     <mxGraphModel dx="2062" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -173,7 +173,7 @@
             <mxPoint x="324" y="409" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="19ECKn68sFGcYvQ7kJFy-16" value="Customer online ordering&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="19ECKn68sFGcYvQ7kJFy-16" value="Shipping details" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="410" width="210" height="120" as="geometry" />
         </mxCell>
         <mxCell id="19ECKn68sFGcYvQ7kJFy-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.005;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
