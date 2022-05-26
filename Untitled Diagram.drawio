@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T11:52:55.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="9W27Nhu3bwzNscfjbzG4" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-26T12:21:57.653Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="KU2VXWi7LRDt_FYyPBkw" version="18.1.2" type="github">
   <diagram id="bfzW_d-6oRnT0RZYZXPe" name="Page-1">
     <mxGraphModel dx="2062" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,19 @@
           <mxGeometry x="405" y="1040" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="19ECKn68sFGcYvQ7kJFy-50" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="10" width="55" height="50" as="geometry" />
+          <mxGeometry x="395" y="10" width="45" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="19ECKn68sFGcYvQ7kJFy-52" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="110" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="19ECKn68sFGcYvQ7kJFy-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.481;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.536;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="19ECKn68sFGcYvQ7kJFy-50" target="19ECKn68sFGcYvQ7kJFy-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="55" as="sourcePoint" />
+            <mxPoint x="470" y="5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19ECKn68sFGcYvQ7kJFy-55" value="Activity diagram of&lt;br/&gt;the future-state online ordering&lt;br/&gt;process " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="125" width="310" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
