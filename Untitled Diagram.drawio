@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T03:44:03.272Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="DtHstN2tQodq6456H8hi" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-26T03:46:17.069Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="jyXWHj2pWERXPhgb6-AV" version="18.1.2" type="github">
   <diagram id="bfzW_d-6oRnT0RZYZXPe" name="Page-1">
     <mxGraphModel dx="2062" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -199,6 +199,12 @@
             <mxPoint x="740" y="710" as="sourcePoint" />
             <mxPoint x="690" y="830" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="19ECKn68sFGcYvQ7kJFy-22" value="Order Process" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="19ECKn68sFGcYvQ7kJFy-23" value="Online form for customers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="440" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
