@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-27T01:22:01.372Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="ngu3MJVAdeuSzKqNN0no" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-27T01:27:53.681Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="QAIRQ9Xm_B0fyH8XNJYg" version="18.1.2" type="github">
   <diagram id="bfzW_d-6oRnT0RZYZXPe" name="Page-1">
     <mxGraphModel dx="2912" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -250,8 +250,41 @@
         <mxCell id="NxdFWwSD8Y3d5Sd5csar-45" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="640" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NxdFWwSD8Y3d5Sd5csar-46" value="Payment&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="655" width="310" height="30" as="geometry" />
+        <mxCell id="NxdFWwSD8Y3d5Sd5csar-46" value="Payment details" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="291" y="655" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NxdFWwSD8Y3d5Sd5csar-47" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="700" as="sourcePoint" />
+            <mxPoint x="440" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NxdFWwSD8Y3d5Sd5csar-48" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="413.75" y="760" width="62.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NxdFWwSD8Y3d5Sd5csar-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NxdFWwSD8Y3d5Sd5csar-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="820" as="sourcePoint" />
+            <mxPoint x="390" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NxdFWwSD8Y3d5Sd5csar-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NxdFWwSD8Y3d5Sd5csar-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="820" as="sourcePoint" />
+            <mxPoint x="500" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NxdFWwSD8Y3d5Sd5csar-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NxdFWwSD8Y3d5Sd5csar-52" value="Returns to the products" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NxdFWwSD8Y3d5Sd5csar-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NxdFWwSD8Y3d5Sd5csar-54" value="Shipment details" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
