@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-27T00:22:50.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="HUSbvsJIQumEpzC61P2m" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-27T00:42:11.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="Ul_l15Q1WlhVd75SPeMX" version="18.1.2" type="github">
   <diagram id="bfzW_d-6oRnT0RZYZXPe" name="Page-1">
     <mxGraphModel dx="2912" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -58,20 +58,20 @@
         <mxCell id="19ECKn68sFGcYvQ7kJFy-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1" source="19ECKn68sFGcYvQ7kJFy-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-520" y="510" as="sourcePoint" />
-            <mxPoint x="-570" y="560" as="targetPoint" />
+            <mxPoint x="-577" y="666" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="19ECKn68sFGcYvQ7kJFy-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="19ECKn68sFGcYvQ7kJFy-73" source="19ECKn68sFGcYvQ7kJFy-65">
+        <mxCell id="19ECKn68sFGcYvQ7kJFy-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="19ECKn68sFGcYvQ7kJFy-73" source="19ECKn68sFGcYvQ7kJFy-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-460" y="520" as="sourcePoint" />
             <mxPoint x="-420" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="19ECKn68sFGcYvQ7kJFy-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-575" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="-627.5" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="19ECKn68sFGcYvQ7kJFy-69" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-420" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="-472.5" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="19ECKn68sFGcYvQ7kJFy-70" value="Products available" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-630" y="510" width="60" height="30" as="geometry" />
@@ -80,33 +80,27 @@
           <mxGeometry x="-460" y="510" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="19ECKn68sFGcYvQ7kJFy-72" value="Goes to the customers details for shipment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-575" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="-627.5" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="19ECKn68sFGcYvQ7kJFy-73" value="Returns to the products page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-420" y="560" width="125" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="19ECKn68sFGcYvQ7kJFy-74" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-515.5" y="620" as="sourcePoint" />
-            <mxPoint x="-515.5" y="680" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="-472.5" y="670" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="19ECKn68sFGcYvQ7kJFy-75" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-670" y="680" width="310" height="60" as="geometry" />
+          <mxGeometry x="250" y="45" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="19ECKn68sFGcYvQ7kJFy-76" value="Shipment details page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-670" y="695" width="310" height="30" as="geometry" />
+          <mxGeometry x="250" y="60" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NxdFWwSD8Y3d5Sd5csar-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-651" y="740" as="sourcePoint" />
-            <mxPoint x="-651" y="800" as="targetPoint" />
+            <mxPoint x="269" y="105" as="sourcePoint" />
+            <mxPoint x="269" y="165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NxdFWwSD8Y3d5Sd5csar-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-375" y="740" as="sourcePoint" />
-            <mxPoint x="-375" y="800" as="targetPoint" />
+            <mxPoint x="545" y="105" as="sourcePoint" />
+            <mxPoint x="545" y="165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NxdFWwSD8Y3d5Sd5csar-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -139,7 +133,7 @@
             <mxPoint x="850" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NxdFWwSD8Y3d5Sd5csar-15" value="Customer&#39;s order page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NxdFWwSD8Y3d5Sd5csar-15" value="Shipment and Payment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry width="850" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NxdFWwSD8Y3d5Sd5csar-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -191,6 +185,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-850" y="1100" as="sourcePoint" />
             <mxPoint x="-850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NxdFWwSD8Y3d5Sd5csar-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="19ECKn68sFGcYvQ7kJFy-72" target="19ECKn68sFGcYvQ7kJFy-76">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-330" y="740" as="sourcePoint" />
+            <mxPoint x="-430" y="840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-520" y="920" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
