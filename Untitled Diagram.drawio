@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-27T01:04:34.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="LpYYAxCi-jkbH-ZlM6O-" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-27T01:22:01.372Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="ngu3MJVAdeuSzKqNN0no" version="18.1.2" type="github">
   <diagram id="bfzW_d-6oRnT0RZYZXPe" name="Page-1">
     <mxGraphModel dx="2912" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -240,6 +240,18 @@
             <mxPoint x="434.5" y="450" as="sourcePoint" />
             <mxPoint x="434.5" y="480" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NxdFWwSD8Y3d5Sd5csar-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.103;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="540" as="sourcePoint" />
+            <mxPoint x="440.07000000000016" y="638.02" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NxdFWwSD8Y3d5Sd5csar-45" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="640" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NxdFWwSD8Y3d5Sd5csar-46" value="Payment&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="655" width="310" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
