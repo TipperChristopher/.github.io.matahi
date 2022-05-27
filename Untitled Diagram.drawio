@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-27T01:27:53.681Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="QAIRQ9Xm_B0fyH8XNJYg" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-27T01:31:58.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="YkxuwvyzlPVj-aXEeMkj" version="18.1.2" type="github">
   <diagram id="bfzW_d-6oRnT0RZYZXPe" name="Page-1">
     <mxGraphModel dx="2912" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -285,6 +285,9 @@
         </mxCell>
         <mxCell id="NxdFWwSD8Y3d5Sd5csar-54" value="Shipment details" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NxdFWwSD8Y3d5Sd5csar-55" value="Order Confirmed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="5" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
