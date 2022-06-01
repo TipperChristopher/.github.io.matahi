@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T08:43:04.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="QWWg_cMZSfh94hp2oTCN" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-01T08:48:58.569Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="IkEsAQ7VX7zDEE95a9uR" version="18.1.3" type="github">
   <diagram id="bfzW_d-6oRnT0RZYZXPe" name="Page-1">
     <mxGraphModel dx="2062" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
         <mxCell id="uValprzuJ4e1e1YTYv_o-34" value="Products choosen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="325" y="510" width="175" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uValprzuJ4e1e1YTYv_o-35" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="uValprzuJ4e1e1YTYv_o-35" value="Order Summary" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="980" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uValprzuJ4e1e1YTYv_o-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -130,7 +130,7 @@
         <mxCell id="uValprzuJ4e1e1YTYv_o-44" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="750" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="uValprzuJ4e1e1YTYv_o-45" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="uValprzuJ4e1e1YTYv_o-45" value="Goes to Payment step" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="315" y="760" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uValprzuJ4e1e1YTYv_o-46" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="uValprzuJ4e1e1YTYv_o-44" target="uValprzuJ4e1e1YTYv_o-38">
@@ -150,6 +150,18 @@
             <mxPoint x="490" y="700" as="sourcePoint" />
             <mxPoint x="540" y="650" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uValprzuJ4e1e1YTYv_o-52" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="279" y="780" as="sourcePoint" />
+            <mxPoint x="210" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uValprzuJ4e1e1YTYv_o-53" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="750" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uValprzuJ4e1e1YTYv_o-54" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="760" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
