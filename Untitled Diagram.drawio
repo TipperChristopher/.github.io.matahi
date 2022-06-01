@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T09:09:11.969Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="7djcYHCoSEDD38P1qXsH" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-01T09:12:05.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="V22aYY_gnP62_eTtk4Vq" version="18.1.3" type="github">
   <diagram id="bfzW_d-6oRnT0RZYZXPe" name="Page-1">
     <mxGraphModel dx="2062" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -198,6 +198,12 @@
             <mxPoint x="210" y="880" as="sourcePoint" />
             <mxPoint x="320" y="880" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uValprzuJ4e1e1YTYv_o-63" value="Shipping Address" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="860" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uValprzuJ4e1e1YTYv_o-64" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="860" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
